@@ -4,7 +4,7 @@
 <br>
 
   <p align="center">
-    <a href="[https://www.google.com.eg/search?q=Tarek+nabil](https://www.linkedin.com/in/tarek-nabil-449929314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"> <!-- Google Me -->
+    <a href="https://www.linkedin.com/in/tarek-nabil-449929314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
     </a>
   </p>
@@ -15,10 +15,10 @@
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
-    <a href="[https://www.linkedin.com/in/tarek-nabil-449929314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]"> <!-- LinkedIn Profile -->
+    <a href="https://www.linkedin.com/in/tarek-nabil-449929314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
-    <a href="[https://wa.me/+201559679902]"> <!-- WhatsApp Channel -->
+    <a href="https://wa.me/+201559679902"> <!-- WhatsApp Channel -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>&nbsp;
   </p>
