@@ -1,16 +1,46 @@
-## Hi there 👋
+    <h1 align="center">I'm Tarek Nabil</h1>
 
-<!--
-**Heo-oss/Heo-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Software Engineer | Pentester </h2>
+<br>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="[https://www.google.com.eg/search?q=Tarek+nabil](https://www.linkedin.com/in/tarek-nabil-449929314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
+
+<h3 align="left">📤 Connect with Me:</h3>
+  <p align="left">
+    <a href="[https://www.linkedin.com/in/a-hemeda](https://www.linkedin.com/in/tarek-nabil-449929314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>&nbsp;
+    <a href="[https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O](https://wa.me/+201559679902)"> <!-- WhatsApp Channel -->
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
+    </a>&nbsp;
+  </p>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,linux,flutter,firebase,git,html,css,js"/>
+  </p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
+
+    
