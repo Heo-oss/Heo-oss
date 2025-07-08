@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=Heo-oss&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
   </p>
 
 <h3 align="left">📤 Connect with Me:</h3>
@@ -30,13 +30,13 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Heo-oss&theme=onestar&row=1&column=7"/>
   </p>
   <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Heo-oss&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=Heo-oss&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
   </p>
 
   <p align="left">
